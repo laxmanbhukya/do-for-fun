@@ -1,2 +1,2 @@
 # do-for-fun
-let the heat flow 
+let the heat flow through minds

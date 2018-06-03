@@ -1,0 +1,20 @@
+ls                      list files in current directory 
+ls -alF                 list in long format 
+cd tempdir              change directory to tempdir
+cd ..                   change directory to prev directory
+mkdir example           make emample directory 
+pwd                     present working directory 
+rmdir                   remove a directory 
+cp file1 dir            copy file into dir 
+cp file1 file1.bak      make a file1 backup 
+rm file1.bak            remove/delete a file
+mv old.html new.html    move 
+more index.html         look a file one page at a time
+man ls                  online manual(help) about commands 
+
+
+
+grep <str><files>     find files which contains <str>                 eg:grep "badwords" * 
+chmod                 permissions
+
+
